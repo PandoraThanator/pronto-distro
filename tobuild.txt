@@ -6,8 +6,8 @@ pronto
 
 # The following is optional but in the build after pronto:
 # signal-scope is a tool for plotting (LCM) signals
-signal-scope/externals
-signal-scope
+#signal-scope/externals
+#signal-scope
 
 
 
