@@ -1,10 +1,10 @@
 # list of subdirectories to build, one one each line.  Empty lines
 # and lines starting with '#' are ignored
 
-lcm-pod
+#lcm-pod
 Eigen_pod
-bot_core_lcmtypes
-libbot
+#bot_core_lcmtypes
+#libbot
 
 occ-map
 octomap-pod
